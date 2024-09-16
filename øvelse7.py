@@ -55,8 +55,10 @@ class Person():
     
     
 person1 = Person("Nicolai", 21, "Danmark")
-
+person1.beskrivelse()
 person2 = Person("Trump", 78, "USA")
-
+person2.beskrivelse
+person3 = Person("John", 36, "Danmark")
+person3.beskrivelse
  
     
